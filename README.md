@@ -41,19 +41,28 @@ before getting it right.
 
 ---
 
+## Writing
+
+**[Building a BI function from zero](https://github.com/nadim-raj/building-bi-from-zero)** —
+how the data function grew from one analyst to fifteen people across three business lines:
+the warehouse call, the pass-rate definitions, the model nobody used, and what I would do
+differently.
+
+---
+
 ## How I think about this work
 
 **Metric definitions are a governance problem, not a technical one.** The hardest thing
 I have enforced is not a pipeline or a schema — it is getting three business lines to
-agree on what a single contested metric means. The SQL was the easy half.
+stop using one name for three different numbers. The SQL was the easy half.
 
 **Embedded beats centralized, once you can afford it.** A central queue optimizes for
 analyst utilization. Embedding optimizes for decisions actually changing. Those are not
 the same goal, and the second one is the one that gets measured.
 
-**Adoption is the deliverable.** I have shipped work that was technically sound and went
-unused. A dashboard nobody opens is not a partial success; it is a wasted quarter and a
-signal that the problem was never properly understood.
+**Adoption is the deliverable.** I have shipped a model that was technically
+sound and went unused, because the question it answered had moved on by the time it
+landed. Check the question is still live before you finish, not just before you start.
 
 **Demand will always exceed capacity.** The answer is not heroics. It is a legible intake
 process, an honest backlog, and the willingness to tell stakeholders what their request
