@@ -43,7 +43,7 @@ before getting it right.
 
 ## Writing
 
-**[Building a BI function from zero](https://github.com/nadim-raj/building-bi-from-zero)** —
+**[Building a BI function from zero](https://nadim-raj.github.io/building-bi-from-zero/)** —
 how the data function grew from one analyst to fifteen people across three business lines:
 the warehouse call, the pass-rate definitions, the model nobody used, and what I would do
 differently.
