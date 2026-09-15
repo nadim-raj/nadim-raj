@@ -31,7 +31,7 @@ and Metabase.
 
 FundedNext runs an evaluation-based funding model: traders pay for a challenge account,
 and those who meet the performance criteria trade firm capital for a share of the reward.
-Per the company's published figures, it has distributed over $372m to traders across
+Per the company's published figures, it has distributed over $372M+ to traders across
 450,000+ accounts in 170+ countries since 2022.
 
 That growth curve is the interesting part of the job. Analytics problems at a company
