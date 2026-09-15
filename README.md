@@ -1,7 +1,7 @@
 # Kazi Nadimul Haque
 
 **Business Intelligence leadership in retail proprietary trading.**
-Kuala Lumpur · [LinkedIn](https://www.linkedin.com/in/kazi-nadimul-haque/)
+Kuala Lumpur · [Portfolio](https://nadim-raj.github.io) · [LinkedIn](https://www.linkedin.com/in/kazi-nadimul-haque/)
 
 I lead the Business Intelligence function at Next Ventures (FundedNext), a retail prop
 trading firm. I joined in 2020 as an analyst, when the company had no data function —
